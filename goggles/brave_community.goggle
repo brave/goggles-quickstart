@@ -1,0 +1,7 @@
+! name: Brave Community
+! description: Rerank results to boost threads from the Brave community forums.
+! public: true
+! author: Goggles 101
+
+$discard
+$site=community.brave.com,boost=2
