@@ -1,0 +1,6 @@
+! name: No Tiktok
+! description: Rerank results to remove pages / threads hosted on Tiktok.
+! public: true
+! author: chirag singhal
+
+$discard,site=tiktok.com
