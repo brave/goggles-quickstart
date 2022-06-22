@@ -1,4 +1,19 @@
-# Brave Search Goggles
+<h1 align="center">Brave Search Goggles</h2>
+
+<p align="center">
+  <em>
+    Search
+    · Open Ranking
+    · Algorithmic Transparency
+  </em>
+  <br />
+  <em>
+    <a href="https://search.brave.com/goggles">Try it</a>
+    · <a href="https://search.brave.com/goggles/discover">Discover</a>
+    · <a href="https://brave.com/goggles">Whitepaper</a>
+  </em>
+</p>
+<br/>
 
 Goggles enable anyone, be it individuals or a community, to alter the ranking
 of Brave search by using a set of instructions (rules and filters). Anyone can
